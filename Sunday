@@ -1,2 +1,3 @@
 cars = 4
 space_in_a_car = 4.0
+print("there are", cars, "available")
