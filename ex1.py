@@ -1,5 +1,3 @@
 print("Hello World!")
 print("We are here")
-print("find me")
-print("what is working tree")
-print("try to do it again")
+print("it's going to be visible")
