@@ -1,0 +1,9 @@
++ plus - this does addition
+- minus - this does subtraction 
+/ slash - this does division
+* asterisk - this does multiplication
+% percent - this is modulus, it gives remainder
+< less-than - this shows when left side is smaller than right side
+> greater-than - this shows when left side is greater than right side
+<= less-than-equal - this shows when left side is smaller or equal than right side
+>= greater-than-equal - this shows when right side is smaller or equal than left side
